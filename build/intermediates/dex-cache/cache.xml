@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_4e8806b1c832899f3e3a7466c7e94dc2245af219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_1aed6ca7cbd59b32a9a4d3182d296a8746f3dedd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_cc246ac4cdc1bfa4009c7b3bcb5c8fa17f196226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_c3b58a6dc4a0f582a802fbe87ba784f3ba6bb771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/AndroidMultipleImagePick/multipleimagepick/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="215696457cf5896858513e0f0498169421090313">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/AndroidMultipleImagePick-multipleimagepick-unspecified_4c8673f578787e9557eb5196149f699719b5e1b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_7d62b3688166e24fb3d9e4a1d7e544c1c2cd26bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_c9a3f00de00df06f7493e4c60949af893548a621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_24ebce2d3684d063d3beaaa8f0bf343da2ea17b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_4110453f7186dc997ad81f9fb2375f0a7aa8084a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_a12e084b200803d283becb260f546c09d4f9f8c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_679151ad477918a5fcc797ab6dc01f614654aa0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_06695d817e6b726b8d723febf26c72383370ea21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_5faefac64703c5ccab656f5abf2b7a9992161c3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_5778025c9d46ad3cb968c713ad700006a93a1f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_6ce9a77c8a788923a7b68c7224df2a71c374ce96.jar" />
+    </item>
+
+</items>

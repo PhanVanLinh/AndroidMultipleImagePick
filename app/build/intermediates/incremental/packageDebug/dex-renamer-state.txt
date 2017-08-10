@@ -1,0 +1,4 @@
+#Thu Aug 10 11:16:45 ICT 2017
+base.0=/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/framgia/PhanVanLinh/AndroidMultipleImagePick/AndroidMultipleImagePick/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
